@@ -66,6 +66,11 @@
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat" alt="JSON Badge">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" alt="PHP" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white" alt="ThreeJS" />
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white" alt="UnrealEngine" />
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
   
 
