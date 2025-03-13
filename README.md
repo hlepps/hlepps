@@ -55,6 +55,22 @@
 
 ###
 
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff&style=flat" alt="ASP.NET Core Badge">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=flat" alt="Blazor Badge">
+  <img src="https://img.shields.io/badge/Radzen-512BD4?logo=dotnet&logoColor=fff&style=flat" alt="Radzen Badge">
+  <img src="https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=fff&style=flat" alt="WPF" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=fff&style=flat" alt="EF Core Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat" alt="JSON Badge">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" alt="PHP" />
+</p>
+  
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hlepps/hlepps/output/snake.svg" alt="Snake animation" />
